@@ -18,7 +18,8 @@ const Host = () => {
                     },
                 }}
             />
-            <Text>This is Host page</Text>
+            <Text>This is Host page my name is kaleem</Text>
+            
         </View>
     );
 };
