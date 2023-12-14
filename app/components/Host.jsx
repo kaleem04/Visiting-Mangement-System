@@ -1,6 +1,8 @@
 import React from 'react';
-import { View, Text } from 'react-native';
+import { View, } from 'react-native';
 import { Stack } from 'expo-router';
+
+import constants from '../constants/constant.style';
 const Host = () => {
     return (
         <View>
@@ -18,13 +20,16 @@ const Host = () => {
                     },
                 }}
             />
-            <Text>This is Host page my name is kaleem</Text>
-            <Text>This is Host page my name is umair</Text>
-            <Text>Hello world</Text>
+            
 
             
         </View>
     );
 };
+
+
+
+
+
 
 export default Host;
