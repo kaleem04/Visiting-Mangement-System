@@ -20,6 +20,8 @@ const Host = () => {
             />
             <Text>This is Host page my name is kaleem</Text>
             <Text>This is Host page my name is umair</Text>
+            <Text>Hello world</Text>
+
             
         </View>
     );

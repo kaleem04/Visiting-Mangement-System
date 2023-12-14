@@ -39,6 +39,7 @@ export default function Login() {
           Login
         </Text>
       </TouchableOpacity>
+      <Text>Hello world</Text>
     </View>
   );
 }

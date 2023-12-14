@@ -98,6 +98,7 @@ export default function Signup() {
            Signup
         </Text>
       </TouchableOpacity>
+      <Text>Hello world</Text>
     </View>
   );
 }
